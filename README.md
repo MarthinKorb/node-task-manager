@@ -18,7 +18,7 @@ A simple Node.js task management API using Express and TypeORM.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/MarthinKorb/node-task-manager
    cd node-task-manager
    ```
 2. Install dependencies:
